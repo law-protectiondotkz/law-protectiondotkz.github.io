@@ -36,7 +36,7 @@ a:hover {
 .bg-dark {
     background-color: #19323c;
 }
-#cor {
+#cor, .cor {
     font-family: 'Cormorant Garamond', serif;
 }
 
